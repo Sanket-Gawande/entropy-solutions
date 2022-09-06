@@ -1,0 +1,12 @@
+@import url('http://fonts.cdnfonts.com/css/euclid-circular-a');
+*{
+    font-family: 'Euclid Circular A', sans-serif;
+}
+
+html{
+    height: 100%;
+
+}
+body{
+    height: 100%;
+}
